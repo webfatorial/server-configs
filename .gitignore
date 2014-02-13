@@ -1,0 +1,27 @@
+# OS generated files #
+######################
+*.bak
+*.tmproj
+*~
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+desktop.ini
+ehthumbs.db
+Thumbs.db
+
+
+# Others #
+##########
+.buildpath
+.idea
+.project
+.settings
+composer.lock
+github.php
+nbproject
+tags
+*.tags
